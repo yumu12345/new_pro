@@ -8,5 +8,6 @@ public class Main {
        int i=0;
        i=i++;
         System.out.println(i);
+        System.out.println("测试");
     }
 }
